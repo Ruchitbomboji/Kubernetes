@@ -3,5 +3,5 @@ kind: ConfigMap
 metadata:
   name: datastore-be-cm
 data:
-  mysqlHost: mysql
-  mysqlUname: root
+  mysqlHost: ruchit-db.ce7sess0ormb.us-east-1.rds.amazonaws.com
+  mysqlUname: admin
