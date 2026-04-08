@@ -3,5 +3,5 @@ kind: ConfigMap
 metadata:
   name: datastore-be-cm
 data:
-  MYSQL_HOST: jdbc:mysql://ruchit-db.ce7sess0ormb.us-east-1.rds.amazonaws.com:3306/datastore
-  MYSQL_USERNAME: admin
+  mysqlHost: jdbc:mysql://ruchit-db.ce7sess0ormb.us-east-1.rds.amazonaws.com:3306/datastore
+  mysqlUname: admin
